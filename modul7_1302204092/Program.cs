@@ -10,7 +10,6 @@ namespace modul7_1302204092
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
